@@ -1,0 +1,7 @@
+#Robocode robot team
+#Mon Nov 16 19:44:50 GMT-03:00 2026
+robocode.version=1.12.0
+team.author.name=
+team.description=equipe de desenvolvimento OsDevs, com a cria\u00E7\u00E3o de estrat\u00E9gias de\ncombate , movimenta\u00E7\u00E3o inteligente, rastreamento de inimigos e ataques\nestrat\u00E9gicos no Robocode
+team.members=osdevs.Cacador*,osdevs.Flanqueador*
+team.version=1
